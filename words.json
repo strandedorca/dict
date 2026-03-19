@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "word": "ephemeral",
+    "definition": "lasting for a very short time",
+    "example": "The ephemeral beauty of cherry blossoms makes them special.",
+    "createdAt": "2025-03-01T10:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "word": "lucid",
+    "definition": "expressed clearly, easy to understand",
+    "example": "Her lucid explanation made the concept click immediately.",
+    "createdAt": "2025-03-02T10:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "word": "serendipity",
+    "definition": "finding something good without looking for it",
+    "example": "It was pure serendipity that they met on that train.",
+    "createdAt": "2025-03-03T10:00:00.000Z"
+  },
+  {
+    "id": 4,
+    "word": "malinger",
+    "definition": "test word",
+    "example": "Walking through the busy market, she was struck by a profound sense of sonder.",
+    "createdAt": "2026-03-19T12:51:10.695Z"
+  },
+  {
+    "id": 5,
+    "word": "boboduck",
+    "definition": "mispronunciation of Babadook",
+    "example": "Bobo bo duck duck duck.",
+    "createdAt": "2026-03-19T12:51:46.412Z"
+  }
+]
